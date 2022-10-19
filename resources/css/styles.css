@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+header{
+    text-align: center;
+}
+
+.headerLink{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
